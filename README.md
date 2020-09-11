@@ -16,4 +16,4 @@ If you are an employer and you are interested in my developer skills, you can se
 
 My `npm` packages:
 - Node.js [Simple async spawn](https://github.com/Antohan/simple-async-spawn) - Runs given command in child process asynchronously.
-- Vue [Confirm Plugin](https://github.com/Antohan/vue-confirm-plugin) - Vue Confirm Plugin is async wrapper for Vue component.
+- Vue [Confirm Plugin](https://github.com/Antohan/vue-confirm-plugin) - Async wrapper for Vue component (Good for modal windows).
