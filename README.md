@@ -8,7 +8,9 @@ My favorite technologies are **React**, **Node.js**
 If you want a sample of my code, send me a take home assignment instead of poking around here since the public part of my GitHub repos are rather unmaintained.
 Thanks!
 
-<a href="https://www.codewars.com/users/Antohan" target="_blank" rel="noopener noreferer"><img src="https://www.codewars.com/users/Antohan/badges/small"></a>
+<a href="https://www.codewars.com/users/Antohan" target="_blank" rel="noopener noreferer">
+  <img src="https://www.codewars.com/users/Antohan/badges/small">
+</a>
 
 My `npm` packages:
 - Node.js [Simple async spawn](https://github.com/Antohan/simple-async-spawn) - Runs given command in child process asynchronously.
